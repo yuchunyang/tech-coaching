@@ -4,11 +4,16 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
+### Quick summary ###
+
+Create quick html website. Version 1
+
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
+
+Just pull html, css and image files and run in browser, no other dependencies
 
 * Summary of set up
 * Configuration
@@ -27,3 +32,5 @@ This README would normally document whatever steps are necessary to get your app
 
 * Repo owner or admin
 * Other community or team contact
+
+Talk to Jonathan
