@@ -1,0 +1,98 @@
+
+
+/* * {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+}
+*/
+body {
+	background-color: #EBE6E7;
+	font: normal small "Lucida Grande", Verdana, sans-serif, Lobster;
+}
+
+.container {
+	max-width: 80%;
+	text-align: center;
+	margin: auto;
+}
+
+nav {
+	margin: auto;
+	text-align: center;
+	margin-top: 10px;
+	border-top: solid;
+	border-bottom: solid;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-top-color: red;
+	border-bottom-color: grey;
+	font-size: 20px ;
+}
+
+aside {
+	float: right;
+	width: 25% ;
+	position: relative;
+
+}
+
+article {
+
+	
+}
+
+.left {
+	float: left;
+	width: 70%;
+	padding: 5px 15px;
+	margin: 0px 5px 5px 5px;
+}
+
+.header-page {
+	background-image: url("mojoheader.jpg");
+	height: 400px;
+	max width: 100%;
+	background-size: cover;
+	background-position: center center;
+	font-color: white;
+}
+
+.header-text {
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	top: 3%;
+	width: 60%;
+	font-size: 60px;
+	color: white;
+}
+
+img {
+	max-width: 100%;
+}
+
+.event {
+	margin: auto 0;
+	text-align: center;
+
+}
+
+.event:nth-child(odd) {
+	color: red;
+}
+
+.event:nth-child(even) {
+	color: blue;
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
